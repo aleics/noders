@@ -1,0 +1,13 @@
+{
+  "name": "noders",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "start": "node index.js"
+  },
+  "author": "aleics",
+  "dependencies": {
+    "ffi-napi": "^4.0.3"
+  }
+}
